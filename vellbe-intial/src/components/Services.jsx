@@ -13,12 +13,11 @@ const Services = () => {
       <div>
         <div>
           <h1 className={`${styles.heading3}  text-primary tracking-[-4%]`}>
-            Services you look forward to at{" "}
+          Services we offer at{" "}
             <span className="text-secondary ">VellBeLife. </span>
           </h1>
           <p className={`${styles.paragraph3} mt-2 mb-12 md:w-[60%]`}>
-            Our commitment is to work with you for a long term health and
-            lifestyle routine which is sustainable and customised to your needs.
+          Our services start from INR 999
           </p>
         </div>
 

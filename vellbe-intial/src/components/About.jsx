@@ -12,12 +12,12 @@ const About = () => {
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 `}>
         <div>
           <h1 className={`${styles.heading3}  text-primary tracking-[-4%]`}>
-            Hey there! Welcome to our holistic{" "}
-            <span className="text-secondary ">wellness center. </span>
+          Welcome to our holistic{" "}
+            <span className="text-secondary ">Wellness Hub.  </span>
           </h1>
           <p className={`${styles.paragraph3} mt-2 mb-12`}>
-            We've got everything you need to know about taking care of your
-            mind, body, and soul.
+          We've got everything you need to know about taking care of your total wellness
+
           </p>
 
           <div className="grid md:grid-cols-2 grid-cols-1">
@@ -28,9 +28,9 @@ const About = () => {
                 className="md:w-[24px] md:h-[24px] w-[18px] h-[18px]"
               />
               <span className="text-primary font-medium text-lg  pl-4 pr-2">
-                Physical wellness
+              Emotional Well-Being
               </span>
-              <p className="text-greenPara text-lg">to strengthen</p>
+              
             </div>
 
             <div className="flex  items-center mb-6">
@@ -40,9 +40,9 @@ const About = () => {
                 className="md:w-[24px] md:h-[24px] w-[18px] h-[18px]"
               />
               <span className="text-primary font-medium text-lg  pl-4 pr-2">
-                Physical wellness
+              Relationship Well-Being
               </span>
-              <p className="text-greenPara text-lg">to strengthen</p>
+              
             </div>
           </div>
 
@@ -54,9 +54,9 @@ const About = () => {
                 className="md:w-[24px] md:h-[24px] w-[18px] h-[18px]"
               />
               <span className="text-primary font-medium text-lg  pl-4 pr-2">
-                Physical wellness
+                Physical Well-Being
               </span>
-              <p className="text-greenPara text-lg">to strengthen</p>
+              
             </div>
           </div>
         </div>

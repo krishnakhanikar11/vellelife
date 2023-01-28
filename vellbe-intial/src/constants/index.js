@@ -6,22 +6,22 @@ export const services = [
   {
     id: "Service-1",
     picture: service1,
-    title: "Emotional Wellbeing",
-    content: "one-to-one psychotherapy conducted by our team of professionals.",
+    title: "Emotional Well-Being",
+    content: "One-to-one psychotherapy sessions to  help you uncover your true potential and heal your traumas.",
   },
 
   {
     id: "Service-2",
     picture: service2,
-    title: "Physical Wellbeing",
+    title: "Physical Well-Being",
     content:
-      "nutritional consultation with experts committed to cause transformation in your lifestyle.",
+      "Nutritional consultation with experts committed to bring a medicine free life. ",
   },
 
   {
     id: "Service-3",
     picture: service3,
-    title: "Relationship Well-being ",
-    content: "one-to-one psychotherapy conducted by our team of professionals.",
+    title: "Relationship Well-Being ",
+    content: "Empowering healthy relationships through personalized coaching .",
   },
 ];

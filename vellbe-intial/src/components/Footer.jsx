@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="mb-6 md:mb-0 md:w-[40%]">
             <img  className="py-4" src={logo} />
             <p className="font-poppins font-normal text-[#58595D] text-[16px]  leading-[22.8px] mb-8 md:mb-0">
-            Our team of nutritionists and health specialists are committed to help you lead a healthy life.
+            Our team of experts are committed to help you lead a healthy and joyful life.
           </p>
         </div>
         <div className="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3 font-poppins">
